@@ -16,13 +16,13 @@ A collection of exciting projects built using OpenCV, demonstrating various comp
   
 ## 📌 Features
 
+</div>
+
 ✅ Real-time object detection
 ✅ Image processing techniques
 ✅ Gesture-based control
 ✅ Face recognition & tracking
 ✅ Edge detection & filtering
-
-</div>
 
 
 ---
@@ -31,8 +31,7 @@ A collection of exciting projects built using OpenCV, demonstrating various comp
   
 ## 🔧 Installation
 
+</div>
 1️⃣ Clone the Repository
 
 ```git clone https://github.com/AmartyaGhoshyoo/OpenCV-Projects.git```
-
-</div>
