@@ -4,6 +4,8 @@
 # 🚀 OpenCV-Projects
 A collection of exciting projects built using OpenCV, demonstrating various computer vision techniques and applications.
 
+I explained in details inside the codes 
+
 </div>
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTV5dXlvem0wajFvaXNqdWxtaHRvMjhkb28zanBvNW5xbTJxOWFzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fs4Fh8g3KxM3PEoGIB/giphy.gif" alt="AI/ML Engineer" />
@@ -19,9 +21,13 @@ A collection of exciting projects built using OpenCV, demonstrating various comp
 </div>
 
 ✅ Real-time object detection
+
 ✅ Image processing techniques
+
 ✅ Gesture-based control
+
 ✅ Face recognition & tracking
+
 ✅ Edge detection & filtering
 
 
