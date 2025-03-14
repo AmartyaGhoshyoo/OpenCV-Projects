@@ -40,4 +40,5 @@ I explained in details inside the codes
 </div>
 1️⃣ Clone the Repository
 
+
 ```git clone https://github.com/AmartyaGhoshyoo/OpenCV-Projects.git```
