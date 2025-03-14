@@ -14,7 +14,7 @@ A collection of exciting projects built using OpenCV, demonstrating various comp
 
 <div align="center">
   
-### 📌 Features
+## 📌 Features
 
 ✅ Real-time object detection
 ✅ Image processing techniques
@@ -29,10 +29,10 @@ A collection of exciting projects built using OpenCV, demonstrating various comp
 
 <div align="center">
   
-### 🔧 Installation
+## 🔧 Installation
 
-1️⃣ Clone the Repository
+ 1️⃣ Clone the Repository
 
-```git clone https://github.com/AmartyaGhoshyoo/OpenCV-Projects.git```
+    ```git clone https://github.com/AmartyaGhoshyoo/OpenCV-Projects.git```
 
 </div>
