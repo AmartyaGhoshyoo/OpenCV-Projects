@@ -28,4 +28,4 @@ python VolVirtualkeyboard.py
 
 Here's a glimpse of the Virtual Floating Keyboard in action:
 
-![Demo](Demo.gif)
+<img src="demo.gif" width="800" height="450">
