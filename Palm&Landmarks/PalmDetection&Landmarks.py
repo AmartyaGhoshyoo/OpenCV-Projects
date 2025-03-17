@@ -3,7 +3,7 @@ import mediapipe as mp
 import time
 import numpy as np
 import mediapipe as mp # MediaPipe is an open-source framework for building pipelines to perform computer vision inference over arbitrary sensory data such as video or audio
-mphands=mp.solutions.hands# calling the solutions,inside it the hands module
+mphands=mp.solutions.hands# calling the solutions module,inside it the hands module
 hands=mphands.Hands() # Hands class Loads the pretrained model trained on huge datasets of hand images in 3D which detect hand in image or in the real time and predict 21 key landmarks points on hand
 """
 It loads a pre-trained deep learning model that:
@@ -44,7 +44,7 @@ while True:
 
     # """
     #NOTE
-    #The below code runs or process only for one photo or frame that was captured, it detects hands on that one photo and draw landmarks print co ordinates and all for that one frame only .. video is nothing but continuous photos or frames 
+    #The below code runs or process only for one photo or frame that was captured, it detects hands on that one photo and draw landmarks print co ordinates and all for that one frame only .. video is nothing but continuous captures photos or frames 
     if result.multi_hand_landmarks:
         for handlmks in result.multi_hand_landmarks: # here handmlks is the object in multi_hand_landmarks atribute in a list [object1,object2,...] ,handmks become that object
             #When MediaPipe detects a hand, it stores 21 landmarks in handlmks.landmark as a list of objects, where each object has x, y, and z attributes.
