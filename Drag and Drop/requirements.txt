@@ -1,4 +1,0 @@
-numpy
-mediapipe
-opencv-python
-cvzone
